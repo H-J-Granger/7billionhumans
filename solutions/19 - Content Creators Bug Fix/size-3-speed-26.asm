@@ -7,5 +7,5 @@
 
 a:
 takefrom sw,s
-giveto s,se
+giveto se
 jump a
