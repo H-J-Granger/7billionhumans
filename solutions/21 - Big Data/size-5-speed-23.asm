@@ -3,7 +3,7 @@
 
 -- Author: Kuriyama Mirai
 -- Size: 5
--- Speed: ~23
+-- Speed: ~23.3 (250 tests)
 
 a:
 step s
